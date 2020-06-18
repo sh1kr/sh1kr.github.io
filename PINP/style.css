@@ -1,0 +1,74 @@
+body {
+    font-family: Montserrat;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: beige;
+    border: 1px solid #b5bb7ba;
+}
+}
+
+header a {
+    font-size: 24px;
+    color: #191919
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 38px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.21;
+    letter-spacing: 0.38px;
+    text-align: center;
+    color: #171717;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5%;
+    flex-wrap: wrap;
+}
+
+main img {
+    width: 360px;
+    padding-bottom: 32px;
+}
+
+main p {
+    width: 512px;
+    font-family: NunitoSans;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: 0.09px;
+    text-align: center;
+    color: #787878;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+    font-family: NunitoSans;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.08px;
+    text-align: left;
+    color: #bcbcbc;
+    height: 284px;
+    background-color: #141414;
+}
